@@ -108,7 +108,7 @@ main {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  background: url(Img/CircleImg.png);
+  background: url(img/circleimg.png);
   background-position: center;
   background-size: 100%;
   margin-bottom: 10px;
